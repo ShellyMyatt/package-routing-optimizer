@@ -55,7 +55,7 @@ This project addresses the challenge of optimizing delivery routes under constra
 
 ### Example Output
 
-Below is an example of the program output showing delivery routing results and package status:
+Below is an example of the program output showing delivery summary and package details:
 
 ![Program Output](routing_app.png)
 
