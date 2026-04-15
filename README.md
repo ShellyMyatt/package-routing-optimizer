@@ -52,3 +52,10 @@ This project addresses the challenge of optimizing delivery routes under constra
    ```
 
 4. Follow the prompts in the console to view delivery status and routing information.
+
+### Example Output
+
+Below is an example of the program output showing delivery routing results and package status:
+
+![Program Output](output.png)
+
