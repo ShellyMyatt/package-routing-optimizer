@@ -30,3 +30,25 @@ This project addresses the challenge of optimizing delivery routes under constra
 * Time complexity and performance considerations
 * Object-oriented programming
 * Real-world problem modeling
+
+### How to Run
+
+1. Clone the repository:
+
+   ```
+   git clone https://github.com/ShellyMyatt/package-routing-optimizer.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```
+   cd package-routing-optimizer/routing_app
+   ```
+
+3. Run the program:
+
+   ```
+   python main.py
+   ```
+
+4. Follow the prompts in the console to view delivery status and routing information.
