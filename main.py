@@ -226,9 +226,9 @@ def lookup_all_package_details(package_hash, check_time):
 
 def main():
     #Initialize the hash table and load the package data
-    distance_data = load_distance_data("CSV/distanceCSV.csv")
-    address_data = load_address_data("CSV/addressCSV.csv")
-    package_hash = initialize_data_from_csv('CSV/packageCSV.csv')
+    distance_data = load_distance_data("data/distanceCSV.csv")
+    address_data = load_address_data("data/addressCSV.csv")
+    package_hash = initialize_data_from_csv('data/packageCSV.csv')
 
     trucks = manually_load_trucks(package_hash)
 

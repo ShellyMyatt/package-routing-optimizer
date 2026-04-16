@@ -11,4 +11,4 @@ def load_address_data(file_path):
             address_data.append(str.strip(row[2]))
     return address_data
 
-addressList = load_address_data('CSV/addressCSV.csv')
+addressList = load_address_data('data/addressCSV.csv')
